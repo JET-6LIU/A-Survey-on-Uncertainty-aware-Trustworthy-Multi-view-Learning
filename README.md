@@ -28,13 +28,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
   - [Representation Learning](#representation-learning)
   - [Clustering](#clustering)
  - [Application](#Application)
-   - [Medical Science](#Medical-Science)
-   - [Medical Image Segmentation](#Medical-Image-Segmentation)
-   - [Other Specific Tasks](#Other-Specific-Tasks)
   - [Others](#Others)
-    - [Fake News Detection](#Fake-News-Detection)
-    - [Sentiment Analysis](#Sentiment-Analysis)
-    - [Autonomous Driving](#Autonomous-Driving)
 
 ## Uncertainty Estimation Methods for Deep Learning
 
