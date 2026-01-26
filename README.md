@@ -863,7 +863,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td><a href=""></a></td>
     </tr>
     <tr>      
-      <td rowspan="7">Sentiment Analysis</td>
+      <td rowspan="6">Sentiment Analysis</td>
       <td>2022</td>
       <td><a href="https://ieeexplore.ieee.org/document/9862943">Deep Tensor Evidence Fusion Network for Sentiment Classification</a></td>
       <td>TCSS</td>
