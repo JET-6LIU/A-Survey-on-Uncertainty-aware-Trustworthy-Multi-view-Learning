@@ -626,10 +626,325 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
 | 2025 |  [How to characterize imprecision in multi-view clustering?](https://arxiv.org/pdf/2404.04970?)              | TETCI |    [Code](https://github.com/JinyiXUres/MvLRECM)     |
 | 2025 |  [Self-supervised Trusted Contrastive Multi-view Clustering with Uncertainty Refined](https://ojs.aaai.org/index.php/AAAI/article/view/33902/36057)              | AAAI  |    [Code](https://github.com/ShizheHu)     |
 
+## Application
 
+### Medical Science
+
+<table>
+  <thead>
     <tr>
-      <td></td>
-      <td><a href=""></a></td>
-      <td></td>
-      <td><a href="">Code</a></td>
+      <th></th>
+      <th>Year</th>
+      <th>Paper</th>
+      <th>Venue</th>
+      <th>Code</th>
     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="20">Medical Image Classification</td>
+      <td>2022</td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0888613X22001256">Deep evidential fusion network for medical image classification</a></td>
+      <td>IJAR</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://arxiv.org/pdf/2405.02918?">MERIT: Multi-view evidential learning for reliable and interpretable liver fibrosis staging</a></td>
+      <td>MedIA</td>
+      <td><a href="https://github.com/HenryLau7/MERIT">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/10822671">Clinical Insight-Augmented Multi-View Learning for Alzheimer's Detection in Retinal OCTA Images</a></td>
+      <td>BIBM</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2023</td>
+      <td><a href="https://arxiv.org/pdf/2307.04981">A Multi-view Impartial Decision Network for Frontotemporal Dementia Diagnosis</a></td>
+      <td>arXiv</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://arxiv.org/pdf/2405.18167">Confidence-aware multi-modality learning for eye disease screening</a></td>
+      <td>MedIA</td>
+      <td><a href="https://github.com/Cocofeat/EyeMoSt">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2023</td> 
+      <td><a href="https://arxiv.org/pdf/2303.09790">Reliable multimodality eye disease screening via mixture of student'st distributions</a></td>
+      <td>MICCAI</td>
+      <td><a href="https://github.com/Cocofeat/EyeMoSt">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2023</td>
+      <td><a href="https://www.nature.com/articles/s41467-023-42444-7.pdf">Uncertainty-inspired open set learning for retinal anomaly identification</a></td>
+      <td>Nature Communications</td>
+      <td><a href="https://github.com/LooKing9218/UIOS">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425018457?via%3Dihub">Glaucoma progression prediction using multi-modal data and trusted multi-view learning</a></td>
+      <td>ESWA</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611124001563">Adaptive fusion of dual-view for grading prostate cancer</a></td>
+      <td>CMIG</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253524003701">TDF-Net: Trusted Dynamic Feature Fusion Network for breast cancer diagnosis using incomplete multimodal ultrasound</a></td>
+      <td>IF</td>
+      <td><a href=""></a></td>
+    </tr>    
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://papers.miccai.org/miccai-2024/paper/2652_paper.pdf">Uncertainty-aware multi-view learning for prostate cancer grading with dwi</a></td>
+      <td>MICCAI</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1476927124001907">TMODINET: A trustworthy multi-omics dynamic learning integration network for cancer diagnostic</a></td>
+      <td>Comput. Biol. Chem.</td>
+      <td><a href="https://github.com/isGao1109/TMODINET/tree/master">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://watermark02.silverchair.com/btae159.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA3EwggNtBgkqhkiG9w0BBwagggNeMIIDWgIBADCCA1MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJ5oD2Xw2lRVoJnMRAgEQgIIDJC70TbMi0B3sMFdCrH5CfBMAo65PZVJtZiAstfQjqoi_W1dW472hSjOYXcOYWxdEt7B9rEO51surKSRCW26mtfXOyt6upevJ264GKxUOFlKJGfsSyo4yt68jo5KDmN1yhkknojiEvrXSZ_9mTy_PbtagpV5Mo8zMgH6ustvQyGycp7_k-l80HbxNFj1-OlhJYS8qbWMZs36rXslA0Pr0jq_7Ois9CdnlL5brvxILUQf1Jv1cCZHu6z0Eo6uCHV_ykYDZAH7pZDOYcNlP2xSkxEW5mvlijRVVYzrt86eC8-tNFW2PithYwivBmoam51zCY2bjLx2JbeBozJpI1Vk4jvmhT5gk-sD-UQvFSjmXHpPRZ9MruMBlWIHhcG0ZpL3b2wPx3kRDacKlWbdaI0oiiGXyaZjWWp9q6l1XczD53_PGmQBwVlETSmAjudAT7kvgNp9ox88OQMIHc_4LhZtWPWxJyPbmxYYBpOGv9IY2-jfhGc-OxcUgMBiOEL1ebg3alTckMtvI_8HJaQ81UMDG75cZNCXhiriiMath8EXusBCi5-OYTVSnsevNHDNbVBlBzZLn3ULNV9PkoS0nJj1-eeY7umsPRBTAF8uX3e-upNBQu7X4zihBbhDe_TrN7Cjw70v93QxLR-ctW-rbD5417368oFNpDhqO1oKQVaY8VPqQEcLYvsW2ZQWznoNVmPNCIvMPjpQD4v9v4jvV-0Vh-_bhPETPzp0T9_ZsQAbNR9q_ZfzYvlHx1_A0j-8ZKCWXZlx6cbSdsXRlyDl1M-aojxNDUEa3MTQ8s3ol_Y0Kgfxhghg-qQUxxHQ_iCegX1BcL6RVm8crazGcEyEyWZi5V7o_Rh6vUMIhbOEUMiXTWIYfkfqI8PPn0mbyzhsdKXDv73eYUkK5PpCbP5XKzFzRjn9GcgPQtpVu95iPURIlWmWvI-j7koLqDs0YhRXSJ1oalBF_b6bffriZ9oNFF1dzwrdnpHxO16WRMFvtdjjMVN22QRT2povQHGhQlLT4XZbd8j89ndrordEC8OnYBJA_UvCp85RL_et1kjxLD6M5i8vFrQTtfQ">HyperTMO: a trusted multi-omics integration framework based on hypergraph convolutional network for patient classification</a></td>
+      <td>Bioinformatics</td>
+      <td><a href="https://github.com/ippousyuga/HyperTMO">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2023</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/10385301?casa_token=C3JhJy850DIAAAAA:lG4JvcrQunHG-4AlctZYYFpynraem7IsTu3MUgBEiKXs-TmOsjT3tHGEpVkqcKA0C1VineGFCQ">Trusted Fine-grained Medical Image Classification through Multiple Evidence Fusion</a></td>
+      <td>BIBM</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10528291">A multi-view deep evidential learning approach for mammogram density classification</a></td>
+      <td>IEEE Access</td>
+      <td><a href="https://github.com/MultiCancerResearch/MV-DEFEAT">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841524002196">E2-MIL: An explainable and evidential multiple instance learning framework for whole slide image classification</a></td>
+      <td>MedIA</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://papers.miccai.org/miccai-2024/paper/0746_paper.pdf">Correlation-Adaptive Multi-view CEUS Fusion for Liver Cancer Diagnosis</a></td>
+      <td>MICCAI</td>
+      <td><a href="https://github.com/shukangzh/CAMVF">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ojs.aaai.org/index.php/AAAI/article/download/32642/34797">A Trusted Lesion-assessment Network for Interpretable Diagnosis of Coronary Artery Disease in Coronary CT Angiography</a></td>
+      <td>AAAI</td>
+      <td><a href="https://github.com/PerceptionComputingLab/CAD_Diagnosis/">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S002002552401613X?casa_token=Ael2g6bDC7IAAAAA:JnLN41h5C464bYh2zr8df1Op6mMiunarTgaYhlS6rwRNhEW2U6T2AQgkI0_BDgnfQumrNIQ5kS0">Trust EEG epileptic seizure detection via evidential multi-view learning</a></td>
+      <td>IS</td>
+      <td><a href="https://github.com/Wednesque/Trust-EEG-Epileptic-Seizure-Detection-via-Evidential-Multi-view-Learning">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425030696">Reliable Decision Making on Clinical EEG: Trusted Multi-View Learning with Subjective Logic for Uncertainty Quantification</a></td>
+      <td>ESWA</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td rowspan="6">Medical Image Segmentation</td>
+      <td>2022</td>
+      <td><a href="https://arxiv.org/pdf/2206.09309">Tbrats: Trusted brain tumor segmentation</a></td>
+      <td>MICCAI</td>
+      <td><a href="https://github.com/Cocofeat/TBraTS">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://arxiv.org/pdf/2406.18327?">Multi-modal evidential fusion network for trustworthy PET/CT tumor segmentation</a></td>
+      <td>KBS</td>
+      <td><a href="https://github.com/QPaws/MEFN">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://arxiv.org/pdf/2311.06400">EviPrompt: A training-free evidential prompt generation method for adapting segment anything model in medical images</a></td>
+      <td>TIP</td>
+      <td><a href="https://github.com/SPIresearch/EviPrompt">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ojs.aaai.org/index.php/AAAI/article/download/33911/36066">Multi-view Evidential Learning-based Medical Image Segmentation</a></td>
+      <td>AAAI</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://hal.science/hal-04681852/document">Deep evidential fusion with uncertainty quantification and reliability learning for multimodal medical image segmentation</a></td>
+      <td>IF</td>
+      <td><a href="https://github.com/iWeisskohl/Deep-evidential-fusion">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2023</td>
+      <td><a href="https://arxiv.org/pdf/2303.10049">Uncertainty-informed mutual learning for joint medical image classification and segmentation</a></td>
+      <td>MICCAI</td>
+      <td><a href="https://github.com/KarryRen/UML">Code</a></td>
+    </tr>
+    <tr>   
+      <td rowspan="3">Other Specific Tasks</td>
+      <td>2025</td>
+      <td><a href="https://www.nature.com/articles/s41598-025-93770-3.pdf">Multimodal multi-instance evidence fusion neural networks for cancer survival prediction</a></td>
+      <td>SR</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://arxiv.org/pdf/2412.01215?">EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers</a></td>
+      <td>TFS</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/11239058/">Evidence-Based Multidisease Prediction via Dynamic Knowledge Evolution and Multimodal Reasoning in EMRs</a></td>
+      <td>CME</td>
+      <td><a href=""></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### Others
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Year</th>
+      <th>Paper</th>
+      <th>Venue</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">Fake News Detection</td>
+      <td>2024</td>
+      <td><a href="https://aclanthology.org/2024.acl-long.316.pdf">Event-radar: Event-driven multi-view learning for multimodal fake news detection</a></td>
+      <td>ACL</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/11198721">Multimodal Fake Information Detection Based on Evidential Deep Learning</a></td>
+      <td>AIoTC</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/10858867">TMEF-BI: Trusted Multimodal Evidential Fusion Considering Behavior Information for Fake News Detection</a></td>
+      <td>TCSS</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/document/11229212">Multi-View Graph Learning with Dynamic Evidential Fusion for Response Forecasting</a></td>
+      <td>IJCNN</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td rowspan="7">Sentiment Analysis</td>
+      <td>2022</td>
+      <td><a href="https://ieeexplore.ieee.org/document/9862943">Deep Tensor Evidence Fusion Network for Sentiment Classification</a></td>
+      <td>TCSS</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://www.researchgate.net/profile/Shuai-Wang-286/publication/387092899_UEFN_Efficient_uncertainty_estimation_fusion_network_for_reliable_multimodal_sentiment_analysis/links/678721aff8b7bf1abcbba494/UEFN-Efficient-uncertainty-estimation-fusion-network-for-reliable-multimodal-sentiment-analysis.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ">UEFN: efficient uncertainty estimation fusion network for reliable multimodal sentiment analysis</a></td>
+      <td>Applied Intelligence</td>
+      <td><a href="https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK">Code</a></td> 
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://www.mdpi.com/2079-9292/13/3/662">Hybrid uncertainty calibration for multimodal sentiment analysis</a></td>
+      <td>MDPI</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://www.xoveexu.com/file/paper/25-06-ICME-UniMSA.pdf">Decoding Emotional Silences: Reliable Multimodal Sentiment Analysis with Bipolar Uncertainty</a></td>
+      <td>ICME</td>
+      <td><a href="https://github.com/SuperPower97/UniMSA">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://dl.acm.org/doi/pdf/10.1145/3746252.3761430">ESED: Emotion-Specific Evidence Decomposition for Uncertainty-Aware Multimodal Emotion Recognition in Conversation</a></td>
+      <td>CIKM</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://djingwang.github.io/works/TACL-%20A%20Trusted%20Action-enhanced%20Curriculum%20Learning%20Approach%20to%20Multimodal%20Affective%20Computing.pdf">TACL: A Trusted Action-enhanced Curriculum Learning Approach to Multimodal Affective Computing</a></td>
+      <td>Neurocomputing</td>
+      <td><a href="https://github.com/huggingface/transformers/tree/main/src/transformers/models/t5">Code</a></td>
+    </tr>
+    <tr>      
+      <td rowspan="8">Autonomous Driving</td>
+      <td>2025</td>
+      <td><a href="https://arxiv.org/pdf/2508.20066">PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence</a></td>
+      <td>arXiv</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/11024149">Confidence Fusion with  Representation Distribution  and Mixture of Experts for  Multi-modal Radar Target  Recognition</a></td>
+      <td>TAES</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://arxiv.org/pdf/2410.08739?">MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation</a></td>
+      <td>arXiv</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10606099">EVORA: Deep Evidential Traversability Learning for  Risk-Aware Off-Road Autonomy</a></td>
+      <td>T-RO</td>
+      <td><a href="https://xiaoyi-cai.github.io/evora/">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2024</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/10540258">“Where Does the Devil Lie?”: Multimodal Multitask  Collaborative Revision Network for Trusted  Road Segmentation</a></td>
+      <td>TMM</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/10971954">Human-Centric Context and Self-Uncertainty-Driven Multi-Modal Large Language Model for Training-Free Vision-Based Driver State Recognition</a></td>
+      <td>TITS</td>
+      <td><a href="https://github.com/w64228013/HSUM">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/10927027">Trustworthy Driver State Perception via Contextual Interaction-Driven Evidential Vision-Language Fusion in Vehicular Cyber-Physical Systems</a></td>
+      <td>TITS</td>
+      <td><a href="https://github.com/w64228013/TDSP">Code</a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/11073807">Evidential Multimodal Fusion Network for Trusted Pedestrian Crossing Intent Prediction</a></td>
+      <td>TCSS</td>
+      <td><a href=""></a></td>
+    </tr>
+  </tbody>
+</table>
+
