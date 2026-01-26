@@ -27,7 +27,8 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
   - [Prompt Learning](#prompt-learning)
   - [Representation Learning](#representation-learning)
   - [Clustering](#clustering)
- - [Application](#Application)
+- [Application](#Application)
+  - [Medical Science](#Medical-Science)
   - [Others](#Others)
 
 ## Uncertainty Estimation Methods for Deep Learning
