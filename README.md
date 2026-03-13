@@ -690,7 +690,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
     <tr>      
       <td>2025</td>
       <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425018457?via%3Dihub">Glaucoma progression prediction using multi-modal data and trusted multi-view learning</a></td>
-      <td>ESWA</td>
+      <td>ESA</td>
       <td><a href=""></a></td>
     </tr>
     <tr>      
@@ -760,9 +760,9 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td><a href="https://github.com/Wednesque/Trust-EEG-Epileptic-Seizure-Detection-via-Evidential-Multi-view-Learning">Code</a></td>
     </tr>
     <tr>      
-      <td>2025</td>
+      <td>2026</td>
       <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425030696">Reliable Decision Making on Clinical EEG: Trusted Multi-View Learning with Subjective Logic for Uncertainty Quantification</a></td>
-      <td>ESWA</td>
+      <td>ESA</td>
       <td><a href=""></a></td>
     </tr>
     <tr>      
