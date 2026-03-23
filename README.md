@@ -540,8 +540,8 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
 | 2022 |          [Uncertainty-aware multiview deep learning for internet of things applications](https://ieeexplore.ieee.org/document/9906001)          |  TII  |     [Code](https://github.com/xdmvteam/EMDL)     |
 | 2023 |                       [Safe multi-view deep classification](https://ojs.aaai.org/index.php/AAAI/article/view/26066/25838)                       |  AAAI |                      <br />                      |
 | 2024 |        [Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation](https://arxiv.org/pdf/2411.03713?)       | arXiv |    [Code](https://github.com/lshi91/GTMC-HOA)    |
-| 2025 | [Trusted unified feature-neighborhood dynamics for multi-view classification](https://ojs.aaai.org/index.php/AAAI/article/download/33914/36069) |  AAAI |   [Code](https://github.com/JethroJames/TUNED)   |
 | 2024 |     [Enhancing Multi-View Classification Reliability with Adaptive Rejection](https://ojs.aaai.org/index.php/AAAI/article/view/34088/36243)     |  AAAI |                      <br />                      |
+| 2025 | [Trusted unified feature-neighborhood dynamics for multi-view classification](https://ojs.aaai.org/index.php/AAAI/article/download/33914/36069) |  AAAI |   [Code](https://github.com/JethroJames/TUNED)   |
 
 ## Challenging Scenarios
 
@@ -932,16 +932,16 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td><a href=""></a></td>
     </tr>
     <tr>      
-      <td>2025</td>
-      <td><a href="https://www.researchgate.net/profile/Shuai-Wang-286/publication/387092899_UEFN_Efficient_uncertainty_estimation_fusion_network_for_reliable_multimodal_sentiment_analysis/links/678721aff8b7bf1abcbba494/UEFN-Efficient-uncertainty-estimation-fusion-network-for-reliable-multimodal-sentiment-analysis.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ">UEFN: efficient uncertainty estimation fusion network for reliable multimodal sentiment analysis</a></td>
-      <td>Applied Intelligence</td>
-      <td><a href="https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK">Code</a></td> 
-    </tr>
-    <tr>      
       <td>2024</td>
       <td><a href="https://www.mdpi.com/2079-9292/13/3/662">Hybrid uncertainty calibration for multimodal sentiment analysis</a></td>
       <td>MDPI</td>
       <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2025</td>
+      <td><a href="https://www.researchgate.net/profile/Shuai-Wang-286/publication/387092899_UEFN_Efficient_uncertainty_estimation_fusion_network_for_reliable_multimodal_sentiment_analysis/links/678721aff8b7bf1abcbba494/UEFN-Efficient-uncertainty-estimation-fusion-network-for-reliable-multimodal-sentiment-analysis.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ">UEFN: efficient uncertainty estimation fusion network for reliable multimodal sentiment analysis</a></td>
+      <td>Applied Intelligence</td>
+      <td><a href="https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK">Code</a></td> 
     </tr>
     <tr>      
       <td>2025</td>
@@ -963,18 +963,6 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
     </tr>
     <tr>      
       <td rowspan="9">Autonomous Driving</td>
-      <td>2025</td>
-      <td><a href="https://arxiv.org/pdf/2508.20066">PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence</a></td>
-      <td>arXiv</td>
-      <td><a href=""></a></td>
-    </tr>
-    <tr>      
-      <td>2025</td>
-      <td><a href="https://ieeexplore.ieee.org/abstract/document/11024149">Confidence Fusion with  Representation Distribution  and Mixture of Experts for  Multi-modal Radar Target  Recognition</a></td>
-      <td>TAES</td>
-      <td><a href=""></a></td>
-    </tr>
-    <tr>      
       <td>2024</td>
       <td><a href="https://arxiv.org/pdf/2410.08739?">MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation</a></td>
       <td>arXiv</td>
@@ -1011,9 +999,21 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td><a href=""></a></td>
     </tr>
     <tr>      
+      <td>2025</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/11024149">Confidence Fusion with  Representation Distribution  and Mixture of Experts for  Multi-modal Radar Target  Recognition</a></td>
+      <td>TAES</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>      
       <td>2026</td>
       <td><a href="https://ieeexplore.ieee.org/abstract/document/11398135">MEDS-Net: Meta-Evidential Dual-Stream Network for Multimodal Few-Shot Driver Fatigue Detection</a></td>
       <td>TCSS</td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td><a href="https://arxiv.org/pdf/2508.20066">PAUL: Uncertainty-Guided Partition and Augmentation for Robust Cross-View Geo-Localization under Noisy Correspondence</a></td>
+      <td>arXiv</td>
       <td><a href=""></a></td>
     </tr>
   </tbody>
