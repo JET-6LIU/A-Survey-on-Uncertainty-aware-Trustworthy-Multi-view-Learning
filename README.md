@@ -16,16 +16,16 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
   - [Uncertainty Estimation](#uncertainty-estimation)
   - [Opinion Aggregation](#opinion-aggregation)
 - [Challenging Scenarios](#challenging-scenarios)
-  - [Conflicting Views](#conflicting-views)
   - [Incomplete Views](#incomplete-views)
   - [Imbalanced Problems](#imbalanced-problems)
+  - [Noisy Data](#noisy-data)
+  - [Conflicting Views](#conflicting-views)
   - [Adversarial Attacks](#adversarial-attacks)
-  - [Noisy Labels](#noisy-labels)
   - [Open-set Scenarios](#open-set-scenarios)
-- [Beyond Classification](#beyond-classification)
-  - [Semi-supervised Learning](#semi-supervised-learning)
-  - [Zero-shot Learning](#zero-shot-learning)
+- [Learning Paradigms](#learning-paradigms)
   - [Prompt Learning](#prompt-learning)
+  - [Zero-shot Learning](#zero-shot-learning)
+  - [Semi-supervised Learning](#semi-supervised-learning)
   - [Representation Learning](#representation-learning)
   - [Clustering](#clustering)
 - [Application](#Application)
@@ -621,7 +621,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------: | :----: | :----: |
 | 2025 | [Trusted Open-World Multi-View Classification with Dynamic Opinion Aggregation](https://dl.acm.org/doi/pdf/10.1145/3746027.3755015) | ACM MM | <br /> |
 
-## Beyond Classification
+## Learning Paradigms
 
 ### Semi-supervised Learning
 
