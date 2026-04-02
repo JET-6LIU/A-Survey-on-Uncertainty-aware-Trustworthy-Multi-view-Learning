@@ -88,7 +88,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td>2020</td>
       <td><a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/0eac690d7059a8de4b48e90f14510391-Paper.pdf">Posterior network: Uncertainty estimation without ood samples via density-based pseudo-counts</a></td>
       <td>NeurIPS</td>
-      <td><a href=""></a></td>
+      <td><a href="https://github.com/sharpenb/Posterior-Network">Code</a></td>
     </tr>
     <tr>
       <td>2020</td>
@@ -106,7 +106,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td>2024</td>
       <td><a href="https://openreview.net/pdf?id=Si3YFA641c">R-edl: Relaxing nonessential settings of evidential deep learning</a></td>
       <td>ICLR</td>
-      <td><a href=""></a></td>
+      <td><a href="https://github.com/MengyuanChen21/ICLR2024-REDL">Code</a></td>
     </tr>
     <tr>
       <td rowspan="2">Distance-aware</td>
@@ -432,7 +432,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td><a href=""></a></td>
     </tr>
     <tr>
-      <td rowspan="3">High Quality of evidence</td>
+      <td rowspan="4">Quality of Evidence</td>
       <td>2024</td>
       <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253523004293">Dual-level Deep Evidential Fusion: Integrating multimodal information for enhanced reliable decision-making in deep learning</a></td>
       <td>IF</td>
@@ -445,10 +445,16 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td><a href="https://github.com/Lihong-Liu/CCML">Code</a></td>
     </tr>
     <tr>
+      <td>2024</td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/10184315">Multiview Adaptive K-Nearest Neighbor Classification</a></td>
+      <td>TAI</td>
+      <td><a href="https://github.com/zzfan3/Multi-view-Adaptive-KNN">Code</a></td>
+    </tr>
+    <tr>
       <td>2025</td>
       <td><a href="https://ieeexplore.ieee.org/abstract/document/11209409">Trustworthy Localized Corrections-guided Mutual Learning for Multi-View Learning</a></td>
       <td>ICME</td>
-      <td><a href=""></a></td>
+      <td><a href="https://github.com/qiuranli28/TLCML">Code</a></td>
     </tr>
     <tr>
       <td rowspan="4">New Pseudo View</td>
@@ -517,7 +523,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td><a href=""></a></td>
     </tr>
     <tr>
-      <td rowspan="2">Calibration</td>
+      <td rowspan="3">Calibration</td>
       <td>2024</td>
       <td><a href="https://dl.acm.org/doi/pdf/10.1145/3664647.3681297">Building trust in decision with conformalized multi-view deep classification</a></td>
       <td>ACM MM</td>
@@ -529,57 +535,77 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td>CVPR</td>
       <td><a href=""></a></td>
     </tr>
+    <tr>
+      <td>2026</td>
+      <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39335">Hyper-Opinion Vagueness Quantification for Robust Multimodal Learning</a></td>
+      <td>AAAI</td>
+      <td><a href="https://github.com/ConstantineWayne/HOVQ"></a></td>
+    </tr>
   </tbody>
 </table>
 
 ### Opinion Aggregation
 
-| Year |                                                                      Paper                                                                      | Venue |                       Code                       |
+| Year |                                                                      Paper                                                                      | Venue |                       Code                      |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------------------------------------------: |
 | 2022 |            [Trusted multi-view deep learning with opinion aggregation](https://ojs.aaai.org/index.php/AAAI/article/view/20724/20483)            |  AAAI | [Code](https://github.com/sunshiding/TMDLO_AAAI) |
-| 2022 |          [Uncertainty-aware multiview deep learning for internet of things applications](https://ieeexplore.ieee.org/document/9906001)          |  TII  |     [Code](https://github.com/xdmvteam/EMDL)     |
-| 2023 |                       [Safe multi-view deep classification](https://ojs.aaai.org/index.php/AAAI/article/view/26066/25838)                       |  AAAI |                      <br />                      |
-| 2024 |        [Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation](https://arxiv.org/pdf/2411.03713?)       | arXiv |    [Code](https://github.com/lshi91/GTMC-HOA)    |
-| 2024 |     [Enhancing Multi-View Classification Reliability with Adaptive Rejection](https://ojs.aaai.org/index.php/AAAI/article/view/34088/36243)     |  AAAI |                      <br />                      |
-| 2025 | [Trusted unified feature-neighborhood dynamics for multi-view classification](https://ojs.aaai.org/index.php/AAAI/article/download/33914/36069) |  AAAI |   [Code](https://github.com/JethroJames/TUNED)   |
+| 2022 |          [Uncertainty-aware multiview deep learning for internet of things applications](https://ieeexplore.ieee.org/document/9906001)          |  TII  |     [Code](https://github.com/xdmvteam/EMDL)    |
+| 2023 |                       [Safe multi-view deep classification](https://ojs.aaai.org/index.php/AAAI/article/view/26066/25838)                       |  AAAI |                      <br />                     |
+| 2024 |        [Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation](https://arxiv.org/pdf/2411.03713?)       | arXiv |    [Code](https://github.com/lshi91/GTMC-HOA)   |
+| 2024 |     [Enhancing Multi-View Classification Reliability with Adaptive Rejection](https://ojs.aaai.org/index.php/AAAI/article/view/34088/36243)     |  AAAI |                      <br />                     |
+| 2025 | [Trusted unified feature-neighborhood dynamics for multi-view classification](https://ojs.aaai.org/index.php/AAAI/article/download/33914/36069) |  AAAI |   [Code](https://github.com/JethroJames/TUNED)  |
+| 2025 | [Deep Evidential Hashing for Trustworthy Cross-Modal Retrieval ](https://ojs.aaai.org/index.php/AAAI/article/view/34043) |  AAAI |   [Code](https://github.com/blackant-dev/DECH)   |
+
 
 ## Challenging Scenarios
 
-### Conflicting Views
-
-| Year |                                                                                          Paper                                                                                          |  Venue  |                                          Code                                           |
-| :--: |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:---------------------------------------------------------------------------------------:|
-| 2023 |                                       [Rtmc: A rubost trusted multi-view classification framework](https://ieeexplore.ieee.org/document/10220047)                                       |  ICME   |                                         <br />                                          |
-| 2024 |                       [Uvat: Uncertainty incorporated view-aware transformer for robust multi-view classification](https://ieeexplore.ieee.org/document/10666988)                       |   TIP   |                        [Code](https://github.com/li-yapeng/UVaT)                        |
-| 2024 |                                        [Reliable conflictive multi-view learning](https://ojs.aaai.org/index.php/AAAI/article/view/29546/30911)                                         |  AAAI   |                        [Code](https://github.com/jiajunsi/RCML)                         |
-| 2025 |                                [Multimodal Learning with Uncertainty Quantification based on Discounted Belief Fusion](https://arxiv.org/pdf/2412.18024)                                | AISTATS |                 [Code](https://github.com/bezirganyan/DBF_uncertainty)                  |
-| 2025 |                                             [Navigating Conflicting Views: Harnessing Trust for Learning](https://arxiv.org/pdf/2406.00958)                                             |  ICML   |                  [Code](https://github.com/OverfitFlow/Trust4Conflict)                  |
-| 2025 |                                         [Deep Fuzzy Multi-view Learning for Reliable Classification](https://openreview.net/pdf?id=ZzuaeYvLsJ)                                          |  ICML   |                       [Code](https://github.com/siyuancncd/FUML)                        |
-| 2025 |                    [Trusted Collective Learning for Conflictive Multi-View Decision-Making](https://ieeexplore.ieee.org/abstract/document/11392036)                                     |  ICDM   |                         [Code](https://github.com/ifbettrer/TrustCL)                    |
-
-
 ### Incomplete Views
 
-| Year |                                                                                                                                                                                        Paper                                                                                                                                                                                         |     Venue      |                     Code                     |
-|:----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:---------------------------------------------------------------------------------------:|
-| 2023 |                                                                     [Exploring and exploiting uncertainty for incomplete multi-view classification](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Exploring_and_Exploiting_Uncertainty_for_Incomplete_Multi-View_Classification_CVPR_2023_paper.pdf)                                                                     |      CVPR      | [Code](https://github.com/xiexiaoxie41/UIMC) |
-| 2024 |                                                                                                                     [Uvat: Uncertainty incorporated view-aware transformer for robust multi-view classification](https://ieeexplore.ieee.org/document/10666988)                                                                                                                      |      TIP       |   [Code](https://github.com/li-yapeng/UVaT)  |
-| 2024 |                                                                                                                                      [Towards robust uncertainty-aware incomplete multi-view classification](https://arxiv.org/pdf/2409.06270?)                                                                                                                                      |     arXiv      |                    <br />                    |
-| 2024 |                                                                                                                        [Evidence-Based Consistency Learning for Incomplete Multi-View Classification](https://ieeexplore.ieee.org/abstract/document/11405354)                                                                                                                        |     AIHCIR     |                    <br />                    |
-| 2024 |                                                                                                                                     [Evidential deep partial multi-view classification with discount fusion](https://arxiv.org/pdf/2408.13123?)                                                                                                                                      |     arXiv      |                    <br />                    |
-| 2025 |                                                                                                                         [Uncertainty Quantification for Incomplete Multi-View Data Using Divergence Measures](https://ieeexplore.ieee.org/document/11045813)                                                                                                                         |      TIP       |                    <br />                    |
-| 2025 |                                                                                                                  [Trusted Cross-view Completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947)                                                                                                                   | Neurocomputing |                    <br />                    |
-| 2026 |                                                                                                                         [Trustworthy data recovery for incomplete multi-view learning](https://www.sciencedirect.com/science/article/pii/S0165168425002609)                                                                                                                          |       SP       | [Code](https://github.com/ding6ding/TDR-IMV) |
-| 2026 |                                                   [Learning Compact Semantic Information and Reliable Pseudo-labels for Incomplete Multi-View Multi-Label Classification](https://ieeexplore.ieee.org/abstract/document/11397552)                                                                                                                                                    |     TPAMI      |                    <br />                    |
-
+| Year |                                                                                                                                                                                                                                                                  Paper                                                                                                                                                                                                                                                                  |     Venue      |                     Code                     |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:---------------------------------------------------------------------------------------:|
+| 2023 |                                                                                                                                              [Exploring and exploiting uncertainty for incomplete multi-view classification](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Exploring_and_Exploiting_Uncertainty_for_Incomplete_Multi-View_Classification_CVPR_2023_paper.pdf)                                                                                                                                               |      CVPR      | [Code](https://github.com/xiexiaoxie41/UIMC) |
+| 2024 |                                                                                                                                                                                               [Uvat: Uncertainty incorporated view-aware transformer for robust multi-view classification](https://ieeexplore.ieee.org/document/10666988)                                                                                                                                                                                               |      TIP       |   [Code](https://github.com/li-yapeng/UVaT)  |
+| 2024 |                                                                                                                                                                                                               [Towards robust uncertainty-aware incomplete multi-view classification](https://arxiv.org/pdf/2409.06270?)                                                                                                                                                                                                                |     arXiv      |                    <br />                    |
+| 2024 |                                                                                                                                                                                                 [Evidence-Based Consistency Learning for Incomplete Multi-View Classification](https://ieeexplore.ieee.org/abstract/document/11405354)                                                                                                                                                                                                  |     AIHCIR     |                    <br />                    |
+| 2024 |                                                                                                                                                                                                               [Evidential deep partial multi-view classification with discount fusion](https://arxiv.org/pdf/2408.13123?)                                                                                                                                                                                                               |     arXiv      |                    <br />                    |
+| 2025 |                                                                                                                                                                                                  [Uncertainty Quantification for Incomplete Multi-View Data Using Divergence Measures](https://ieeexplore.ieee.org/document/11045813)                                                                                                                                                                                                   |      TIP       |                    <br />                    |
+| 2025 |                                                                                                                                                                                            [Trusted Cross-view Completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947)                                                                                                                                                                                            | Neurocomputing |                    <br />                    |
+| 2026 |                                                                                                                                                                                                   [Trustworthy data recovery for incomplete multi-view learning](https://www.sciencedirect.com/science/article/pii/S0165168425002609)                                                                                                                                                                                                   |       SP       | [Code](https://github.com/ding6ding/TDR-IMV) |
+| 2026 |                                                                                                                                                                             [Learning Compact Semantic Information and Reliable Pseudo-labels for Incomplete Multi-View Multi-Label Classification](https://ieeexplore.ieee.org/abstract/document/11397552)                                                                                                                                                                             |     TPAMI      |                    <br />                    |
+| 2026 |                                                                                                                                                                                 [Reliable Feature Imputation with Cross-view Relation Transfer for Deep Incomplete Multi-view Classification](https://ieeexplore.ieee.org/abstract/document/11418622/)                                                                                                                                                                                  |     TCSVT      |                    <br />                    |
+| 2026 |                                                                                            [Incomplete multi-view partial multi-label learning via hierarchical semantic synergy](https://www.sciencedirect.com/science/article/pii/S0957417426008390)                                                                                                                                                                                                                                                                                  |      ESWA      |                    <br />                    |
 
 ### Imbalanced Problems
 
-| Year |                                                            Paper                                                           |  Venue |                    Code                    |
-| :--: | :------------------------------------------------------------------------------------------------------------------------: | :----: | :----------------------------------------: |
-| 2025 |            [Fairness-Aware Multi-view Evidential Learning with Adaptive Prior](https://arxiv.org/pdf/2508.12997)           |  arXiv |  [Code](https://github.com/li-yapeng/UVaT) |
-| 2025 | [Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755092) | ACM MM | [Code](https://github.com/Wednesque/SAEML) |
-| 2026 |               [Trusted Multi-view Learning for Long-tailed Classification](https://arxiv.org/pdf/2511.09138)               |  AAAI  |  [Code](https://github.com/cncq-tang/TMLC) |
+| Year |                                                                      Paper                                                                      |  Venue |                    Code                    |
+| :--: |:-----------------------------------------------------------------------------------------------------------------------------------------------:| :----: |:------------------------------------------:|
+| 2025 |                      [Fairness-Aware Multi-view Evidential Learning with Adaptive Prior](https://arxiv.org/pdf/2508.12997)                      |  arXiv | [Code](https://github.com/li-yapeng/UVaT)  |
+| 2025 |           [Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755092)            | ACM MM | [Code](https://github.com/Wednesque/SAEML) |
+| 2026 |       [Trusted Multi-view Learning for Long-tailed Classification](https://ojs.aaai.org/index.php/AAAI/article/view/39780)                      |  AAAI  | [Code](https://github.com/cncq-tang/TMLC)  |
+| 2026 |                [Multi-view Learning via Trusted Pairwise Entity Energy](https://ojs.aaai.org/index.php/AAAI/article/view/39683)                 |  AAAI  |                                            |
+
+### Noisy Data
+
+| Year |                                                                                                 Paper                                                                                                 | Venue  |                      Code                     |
+|:----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:| :-------------------------------------------: |
+| 2022 |                                  [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3547922)                                   | ACM MM | [Code](https://github.com/QinYang79/DECL) |
+| 2023 |                                              [Rtmc: A rubost trusted multi-view classification framework](https://ieeexplore.ieee.org/document/10220047)                                              |  ICME  |                                         <br />                                          |
+| 2024 |                              [Uvat: Uncertainty incorporated view-aware transformer for robust multi-view classification](https://ieeexplore.ieee.org/document/10666988)                              |  TIP   |                        [Code](https://github.com/li-yapeng/UVaT)                        |
+| 2025 |                                                    [Trusted multi-view learning with label noise](https://www.ijcai.org/proceedings/2024/0582.pdf)                                                    | IJCAI  | [Code](https://github.com/YilinZhang107/TMNR) |
+| 2026 |                    [UML: uncertainty-aware and mutual learning for noise-robust cross-lingual cross-modal retrieval](https://link.springer.com/article/10.1007/s11432-024-4696-2)                     |  SCIS  |  |
+
+
+### Conflicting Views
+
+| Year |                                                                                                                           Paper                                                                                                                            |  Venue  |                                            Code                                            |
+|:----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:------------------------------------------------------------------------------------------:|
+| 2024 |                                                                          [Reliable conflictive multi-view learning](https://ojs.aaai.org/index.php/AAAI/article/view/29546/30911)                                                                          |  AAAI   |                          [Code](https://github.com/jiajunsi/RCML)                          |
+| 2025 |                                                                 [Multimodal Learning with Uncertainty Quantification based on Discounted Belief Fusion](https://arxiv.org/pdf/2412.18024)                                                                  | AISTATS |                   [Code](https://github.com/bezirganyan/DBF_uncertainty)                   |
+| 2025 |                                                                              [Navigating Conflicting Views: Harnessing Trust for Learning](https://arxiv.org/pdf/2406.00958)                                                                               |  ICML   |                   [Code](https://github.com/OverfitFlow/Trust4Conflict)                    |
+| 2025 |                                                                           [Deep Fuzzy Multi-view Learning for Reliable Classification](https://openreview.net/pdf?id=ZzuaeYvLsJ)                                                                           |  ICML   |                         [Code](https://github.com/siyuancncd/FUML)                         |
+| 2025 |                                                              [Trusted Collective Learning for Conflictive Multi-View Decision-Making](https://ieeexplore.ieee.org/abstract/document/11392036)                                                              |  ICDM   |                        [Code](https://github.com/ifbettrer/TrustCL)                        |
+| 2026 |                                 [Robust Trusted Conflictive Multiview Collaborative Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/11391645)                                                                                          |  TPAMI  |              [Code](https://github.com/hushaobo01/RCMCL-main)                              |
+
 
 ### Adversarial Attacks
 
@@ -588,11 +614,6 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
 | 2025 |                      [Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks](https://www.ijcai.org/proceedings/2025/0720.pdf)                     | IJCAI | [Code](https://github.com/Willy1005/2025-IJCAI-RDML) |
 | 2025 | [Evidential dissonance measure in robust multi-view classification to resist adversarial attack](https://www.sciencedirect.com/science/article/abs/pii/S156625352400383X) |   IF  |      [Code](https://github.com/Wednesque/SAEML)      |
 
-### Noisy Labels
-
-| Year |                                              Paper                                              | Venue |                      Code                     |
-| :--: | :---------------------------------------------------------------------------------------------: | :---: | :-------------------------------------------: |
-| 2025 | [Trusted multi-view learning with label noise](https://www.ijcai.org/proceedings/2024/0582.pdf) | IJCAI | [Code](https://github.com/YilinZhang107/TMNR) |
 
 ### Open-set Scenarios
 
@@ -604,9 +625,10 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
 
 ### Semi-supervised Learning
 
-| Year |                                                                 Paper                                                                 | Venue |  Code  |
-| :--: | :-----------------------------------------------------------------------------------------------------------------------------------: | :---: | :----: |
-| 2024 | [Trusted Semi-Supervised Multi-View Classification With Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10475541) |  TMM  | <br /> |
+| Year |                                                                  Paper                                                                  | Venue |                    Code                     |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-----:|:-------------------------------------------:|
+| 2024 |  [Trusted Semi-Supervised Multi-View Classification With Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10475541)  |  TMM  |                   <br />                    |
+| 2026 | [Neural Collapse Priors Driven Trust Semi-Supervised Multi-View Classification](https://ojs.aaai.org/index.php/AAAI/article/view/39295) | AAAI  | [Code](https://github.com/GTT-1/NCPD-TSMVC) |
 
 ### Zero-shot Learning
 
@@ -630,12 +652,15 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
 
 ### Clustering
 
-| Year |                                                                                                                                 Paper                                                                                                                                 | Venue |                        Code                       |
-| :--: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------------------------------------------: |
-| 2023 | [Adaptive weighted multi-view evidential clustering](https://www.researchgate.net/profile/Zhe-Liu-107/publication/372242432_Adaptive_Weighted_Multi-View_Evidential_Clustering/links/64ac33d08de7ed28ba8a0d29/Adaptive-Weighted-Multi-View-Evidential-Clustering.pdf) | ICANN |   [Code](https://github.com/MAMBA126JAMES/WMVEC)  |
-| 2024 |                                                               [Adaptive weighted multi-view evidential clustering with feature preference](https://link.springer.com/article/10.1007/s00138-024-01556-w)                                                              |  KBS  | [Code](https://github.com/MAMBA126JAMES/WMVEC-FP) |
-| 2025 |                                                                                     [How to characterize imprecision in multi-view clustering?](https://arxiv.org/pdf/2404.04970?)                                                                                    | TETCI |   [Code](https://github.com/JinyiXUres/MvLRECM)   |
-| 2025 |                                                           [Self-supervised Trusted Contrastive Multi-view Clustering with Uncertainty Refined](https://ojs.aaai.org/index.php/AAAI/article/view/33902/36057)                                                          |  AAAI |        [Code](https://github.com/ShizheHu)        |
+| Year |                                                                                                                                                           Paper                                                                                                                                                            | Venue |                           Code                           |
+|:----:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----:|:--------------------------------------------------------:|
+| 2023 |                           [Adaptive weighted multi-view evidential clustering](https://www.researchgate.net/profile/Zhe-Liu-107/publication/372242432_Adaptive_Weighted_Multi-View_Evidential_Clustering/links/64ac33d08de7ed28ba8a0d29/Adaptive-Weighted-Multi-View-Evidential-Clustering.pdf)                            | ICANN |      [Code](https://github.com/MAMBA126JAMES/WMVEC)      |
+| 2024 |                                                                                         [Adaptive weighted multi-view evidential clustering with feature preference](https://link.springer.com/article/10.1007/s00138-024-01556-w)                                                                                         |  KBS  |    [Code](https://github.com/MAMBA126JAMES/WMVEC-FP)     |
+| 2025 |                                                                                                               [How to characterize imprecision in multi-view clustering?](https://arxiv.org/pdf/2404.04970?)                                                                                                               | TETCI |      [Code](https://github.com/JinyiXUres/MvLRECM)       |
+| 2025 |                                                                                     [Self-supervised Trusted Contrastive Multi-view Clustering with Uncertainty Refined](https://ojs.aaai.org/index.php/AAAI/article/view/33902/36057)                                                                                     | AAAI  |           [Code](https://github.com/ShizheHu)            |
+| 2026 |                                                                                         [Dual-Reliable Contrastive Fusion for Multi-View Clustering ](https://ieeexplore.ieee.org/abstract/document/11390722)                                                                                                              | TCSVT |    [Code](https://github.com/li-zi-qi/DRCFMVC)           |
+
+
 
 ## Application
 
@@ -653,7 +678,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
   </thead>
   <tbody>
     <tr>
-      <td rowspan="26">Medical Image Classification</td>
+      <td rowspan="27">Medical Image Classification</td>
       <td>2022</td>
       <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0888613X22001256">Deep evidential fusion network for medical image classification</a></td>
       <td>IJAR</td>
@@ -703,7 +728,7 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
     </tr>    
     <tr>      
       <td>2024</td>
-      <td><a href="https://papers.miccai.org/miccai-2024/paper/2652_paper.pdf">Uncertainty-aware multi-view learning for prostate cancer grading with dwi</a></td>
+      <td><a href="https://papers.miccai.org/miccai-2024/paper/2652_paper.pdf">Uncertainty-Aware Multi-View Learning for Prostate Cancer Grading with DWI</a></td>
       <td>MICCAI</td>
       <td><a href=""></a></td>
     </tr>
@@ -808,6 +833,12 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
       <td><a href="https://ieeexplore.ieee.org/abstract/document/11184614">Trustworthy Multi-Modal Ultrasound Fusion via Uncertainty Calibration and Conflict Resolution</a></td>
       <td>TMI</td>
       <td><a href=""></a></td>
+    </tr>
+    <tr>      
+      <td>2026</td>
+      <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39896">Universal EEG Epilepsy Detection via Evidential Multi-View De-Biasing</a></td>
+      <td>AAAI</td>
+      <td><a href="https://github.com/GTT-1/NCPD-TSMVC">Code</a></td>
     </tr>
     <tr>      
       <td rowspan="7">Medical Image Segmentation</td>
@@ -1018,5 +1049,3 @@ Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", i
     </tr>
   </tbody>
 </table>
-
-.
