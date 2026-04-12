@@ -1,6 +1,6 @@
-# A Survey on Uncertainty-aware Trustworthy Multi-view Learning
+# A Survey of Multi-view Learning: An Evidential Perspective
 
-Repository for the survey "Uncertainty-aware Trustworthy Multi-view Learning", including links to referenced literature.
+Repository for the survey "Multi-view Learning: An Evidential Perspective", including links to referenced papers.
 
 ## Table of Contents
 
